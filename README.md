@@ -11,7 +11,7 @@ Also the 3d printed front and back parts seem to come from a cheap 3d printer wi
 ![Ugly print quality](images/bent_cover.jpg)
 
 This project aims at making the user interface better and also offers FreeCAD drawings and STLs of the front and back part so yo can print it yourself.
-The original repository has a case as STL available...but it is again unusable..at least for me.
+The original repository has a case as STL available...but no STLs for the covers used in the commercial version.
 
 ![Front Cover in FreeCAD](images/front_cover_freecad.jpg)
 ![Back Cover in FreeCAD](images/back_cover_freecad.jpg)
